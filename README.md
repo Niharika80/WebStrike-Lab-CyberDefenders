@@ -16,36 +16,36 @@ ___
 Q2 : What's the attacker's Full User-Agent?  
 Answer : `Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0`  
 
-![Q2](https://github.com/yourusername/WebStrike-Lab/blob/main/images/2.jpg)
+![Q2](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders/blob/ff4842bd8605cda9ad199caa5b4e6d5683f75781/images/2.jpg)
 ___
 
 Q3 : What is the name of the malicious web shell that was successfully uploaded?  
 Answer : `image.jpg.php`  
 
-![Q3](https://github.com/yourusername/WebStrike-Lab/blob/main/images/3.jpg)
+![Q3](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders/blob/ff4842bd8605cda9ad199caa5b4e6d5683f75781/images/3.jpg)
 ___
 
 Q4 : Which directory is used by the website to store the uploaded files?  
 Answer : `/reviews/uploads/`  
 
-![Q4](https://github.com/yourusername/WebStrike-Lab/blob/main/images/4.jpg)
+![Q4](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders/blob/b04d595aec384b531d0df896005ffb6859e5962f/images/4.jpg)
 ___
 
 Q5 : Which port, opened on the attacker's machine, was targeted by the malicious web shell for establishing unauthorized outbound communication?  
 Answer : `8080`  
 
-![Q5](https://github.com/Niharika80/WebStrike-Lab/blob/main/images/5.jpg)
+![Q5](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders/blob/ff4842bd8605cda9ad199caa5b4e6d5683f75781/images/5.jpg)
 ___
 
 Q6 : Which file was the attacker attempting to exfiltrate?  
 Answer : `passwd`  
 
-![Q6](https://github.com/Niharika80/WebStrike-Lab/blob/main/images/6.jpg)
+![Q6](https://github.com/Niharika80/WebStrike-Lab-CyberDefenders/blob/ff4842bd8605cda9ad199caa5b4e6d5683f75781/images/6.jpg)
 ___
 
 ---
 
-## 🧠 What I Learned
+## What I Learned:
 
 - Strengthened my **Wireshark** and **PCAP analysis** skills to investigate web-based intrusions.  
 - Learned how to trace **web shell uploads**, identify **exfiltration attempts**, and recognize **attacker behavior** through network patterns.  
